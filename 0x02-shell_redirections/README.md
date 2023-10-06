@@ -1,1 +1,1 @@
-Hello word in Shell, I/O Redirections  with Mariam at alx
+Hello word in Shell, I/O Redirections  with Emad at alx
